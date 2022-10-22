@@ -851,7 +851,8 @@ section {
 .work-process .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #94c045;
+  color: #810000;
+  /* color: #94c045; */
 }
 
 .work-process .content p:last-child {
@@ -975,7 +976,8 @@ section {
 
 .testimonials .testimonial-item .quote-icon-left,
 .testimonials .testimonial-item .quote-icon-right {
-  color: #c0da91;
+  /* color: #c0da91; */
+  color: #810000;
   font-size: 26px;
   line-height: 0;
 }
@@ -2487,7 +2489,8 @@ background-color: #810000;
 
 .cta1 .cta-btn:hover {
   background: #fff;
-  color: #3fbbc0;
+  /* color: #3fbbc0; */
+  color: #810000;
 }
 /* --------------- end call to action ------------ */
 
@@ -2501,7 +2504,7 @@ background-color: #810000;
   text-align: center;
   border-radius: 4px;
   background: #fff;
-  box-shadow: 0px 2px 15px rgba(63, 187, 192, 0.1);
+  box-shadow: 0px 2px 15px rgba(240, 60, 60, 0.1);
 }
 
 .doctors .member .member-img {
@@ -2537,7 +2540,8 @@ background-color: #810000;
 }
 
 .doctors .member .social a:hover {
-  color: #3fbbc0;
+ color: #810000;
+  /* color: #3fbbc0; */
 }
 
 .doctors .member .social i {
@@ -2641,9 +2645,10 @@ background-color: #810000;
   border-radius: 50%;
   transition: 0.5s;
   /* color: #3fbbc0; */
-  color: #810000;
+  color: #dd5757; 
+  /* #810000; */
   overflow: hidden;
-  box-shadow: 0px 0 25px rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 0 25px rgba(240, 60, 60, 0.15);
 }
 
 .service .icon i {
@@ -2652,7 +2657,7 @@ background-color: #810000;
 }
 
 .service .icon-box:hover .icon {
-  box-shadow: 0px 0 25px rgba(63, 187, 192, 0.3);
+  box-shadow: 0px 0 25px rgba(240, 60, 60, 0.15);
 }
 
 .service .title {
@@ -2727,7 +2732,8 @@ background-color: #810000;
 
 .testimonial .testimonial-item .quote-icon-left,
 .testimonial .testimonial-item .quote-icon-right {
-  color: #b2e4e6;
+  color: #810000;
+  /* color: #b2e4e6; */
   font-size: 26px;
 }
 
