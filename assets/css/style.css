@@ -741,8 +741,8 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: #86b03c;
-  /* background: #810000; */
+  /* background: #86b03c; */
+  background: #d18787;
   padding: 50px 0;
 }
 
@@ -2285,12 +2285,13 @@ background-color: #810000;
 #footer .footer-top h4::after {
   /* background: #94c045; */
   /* background: #810000; */
-  background: red;
+  background: #810000;
   width: 60px;
 }
 
 #footer .footer-top .footer-links {
   margin-bottom: 30px;
+  margin-left: auto;
 }
 
 #footer .footer-top .footer-links ul {
@@ -2316,6 +2317,7 @@ background-color: #810000;
 
 #footer .footer-top .footer-contact {
   margin-bottom: 30px;
+  margin-left: auto;
 }
 
 #footer .footer-top .footer-contact p {
@@ -2504,7 +2506,7 @@ background-color: #810000;
   text-align: center;
   border-radius: 4px;
   background: #fff;
-  box-shadow: 0px 2px 15px rgba(240, 60, 60, 0.1);
+  box-shadow: 0px 2px 15px rgba(255, 99, 71, 0.4);
 }
 
 .doctors .member .member-img {
@@ -2674,7 +2676,7 @@ background-color: #810000;
 }
 
 .service .title a:hover {
-  color: #3fbbc0;
+  color: #810000;
 }
 
 .service .title::after {
@@ -2754,7 +2756,8 @@ background-color: #810000;
   font-style: italic;
   margin: 0 15px 0 15px;
   padding: 20px 20px 60px 20px;
-  background: #f0fafa;
+  background: #ddcccb17;
+  /* #f0fafa; */
   position: relative;
   border-radius: 6px;
   position: relative;
