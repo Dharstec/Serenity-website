@@ -468,7 +468,7 @@ h6 {
 --------------------------------------------------------------*/
 section {
   padding-bottom: 60px;
-  background-color: #f9fbf4;
+  /* background-color: whitesmoke; */
   overflow: hidden;
 }
 
@@ -745,13 +745,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  /* background: #86b03c; */
-  background: #ffadad59;
-  background-image: url();
   padding: 50px 0;
-  /* background-size: 100% 100%; */
-  /* height: auto; */
-  /* width: 100px; */
 }
 
 .cta h3 {
@@ -795,7 +789,8 @@ section {
   overflow: hidden;
   border-radius: 10px;
   margin: 0 10px 40px 10px;
-  background: #fff;
+  /* background: #fff; */
+  background: #f9fbf4;
   box-shadow: 0 2px 29px 0 rgba(68, 88, 144, 0.12);
   transition: all 0.3s ease-in-out;
 }
@@ -1725,7 +1720,7 @@ background-color: #810000;
 }
 
 .blog .entry .entry-title a:hover {
-  color: #94c045;
+  color: #810000;
 }
 
 .blog .entry .entry-meta {
@@ -1770,7 +1765,7 @@ background-color: #810000;
 
 .blog .entry .entry-content .read-more a {
   display: inline-block;
-  background: #94c045;
+  background: #810000;
   color: #fff;
   padding: 6px 20px;
   transition: 0.3s;
@@ -1779,7 +1774,7 @@ background-color: #810000;
 }
 
 .blog .entry .entry-content .read-more a:hover {
-  background: #9fc658;
+  background: #dd5757;
 }
 
 .blog .entry .entry-content h3 {
@@ -2044,7 +2039,7 @@ background-color: #810000;
 
 .blog .blog-pagination li.active,
 .blog .blog-pagination li:hover {
-  background: #94c045;
+  background: #810000;
 }
 
 .blog .blog-pagination li.active a,
@@ -2376,6 +2371,10 @@ background-color: #810000;
   color: #fff;
 }
 /* ------------------------------- Departments--------------------- */
+/* .departments{ */
+  /* background-color: #f9fbf4; */
+  /* background-color: red; */
+/* } */
 .departments .nav-tabs {
   border: 0;
 }
@@ -2645,6 +2644,9 @@ background-color: #810000;
 /*--------------------------------------------------------------
 # Service
 --------------------------------------------------------------*/
+.service {
+  background-color: #f9fbf4;
+}
 .service .icon-box {
   margin-bottom: 20px;
   text-align: center;
